@@ -25,7 +25,7 @@ from telegram.ext import (
 # ══════════════════════════════════════════════════════════════════
 # CONFIG
 # ══════════════════════════════════════════════════════════════════
-TOKEN          = os.environ.get("BOT_TOKEN", "")
+TOKEN          = os.environ.get("BOT_TOKEN", "8783298629:AAHAJbNnbP1GmvO-oZd8E8NFVXEIjJmyywk")
 BOT_USERNAME   = os.environ.get("BOT_USERNAME", "@shownXpannelbot")
 DB_FILE        = os.environ.get("DB_FILE", "bot_database.json")
 BACKUP_DIR     = os.environ.get("BACKUP_DIR", "backups")
